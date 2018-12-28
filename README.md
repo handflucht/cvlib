@@ -2,12 +2,18 @@
 
 Runs https://github.com/arunponnusamy/cvlib inside docker.
 
-# Install
+# General
+This README is at github.com/handflucht/cvlib.
+
+
+
+You can also build using github:
+
 ```
 docker build github.com/handflucht/cvlib
 ```
 
-or get image from
+
 
 
 Working directory is ```/cvlib/examples```.
